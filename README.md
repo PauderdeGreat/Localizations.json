@@ -12,4 +12,4 @@ This project will combine all JSON files across all countries to produce signula
 
 ## Contributing
 
-See https://forum.manager.io/t/contributing-new-country-template/37706
+See https://forum.manager.io/t/localizations-new-way-to-contribute/37779
