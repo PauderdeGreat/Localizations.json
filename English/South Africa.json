@@ -1,0 +1,901 @@
+{
+  "6ef13e42-ad89-4d42-9480-546e0c04a411": {
+    "7a2f0417-a1b4-437d-971c-64feaf862953": {
+      "1": "Share Capital",
+      "3": "9275ff4c-4cff-41d0-b7b5-f31c783f03d8",
+      "18": 2,
+      "16": 1
+    }
+  },
+  "dac7ba37-0ccd-45e5-906e-548e6c50df37": {
+    "dac7ba37-0ccd-45e5-906e-548e6c50df37": {
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    }
+  },
+  "d1489e95-bb28-4f5d-b42e-67d3291b3893": {
+    "d1489e95-bb28-4f5d-b42e-67d3291b3893": {
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    }
+  },
+  "74dfd025-d68e-4a99-9c78-5d43e17c0e09": {
+    "74dfd025-d68e-4a99-9c78-5d43e17c0e09": {
+      "11": 2
+    }
+  },
+  "30c697fa-4196-438a-ab5a-1957478034b1": {
+    "30c697fa-4196-438a-ab5a-1957478034b1": {
+      "1": "VAT Control Account",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    }
+  },
+  "39dde4fc-7af8-44cc-8572-3b1ff4cfb918": {
+    "39dde4fc-7af8-44cc-8572-3b1ff4cfb918": {
+      "3": "ZAR",
+      "2": "South Afican Rand",
+      "4": "R",
+      "5": 2
+    }
+  },
+  "25299eaa-3460-4a62-bd5d-8bc65b24375d": {
+    "1483521d-6e05-4320-a367-5be9351bf4ad": {
+      "1": "Interest paid"
+    },
+    "59dd87a0-9b5d-4bf3-8d5a-22c13a9df2c5": {
+      "1": "0 - Receipts from customers"
+    },
+    "9fb01db7-a855-4c09-a5e4-5092e685ebae": {
+      "1": "Dividends paid"
+    },
+    "b01186e9-2d42-48e3-990b-19770d2c29dc": {
+      "1": "1 - Cash paid to suppliers and employees"
+    },
+    "e4227367-e2ed-4936-b94f-91ab96a7dc15": {
+      "1": "Interest received"
+    },
+    "e5c76262-2269-4597-9f38-e373a30727bb": {
+      "1": "Dividends received"
+    }
+  },
+  "ec37c11e-2b67-49c6-8a58-6eccb7dd75ee": {
+    "5572625d-fba4-4e43-8093-e695135faaea": {
+      "1": "Sample Customer",
+      "13": "C001",
+      "10": "0000 / 000000 / 00",
+      "2": "123 ABC\nStreet",
+      "20": "123 ABC\nStreet",
+      "3": "abc@co.za",
+      "12": {}
+    }
+  },
+  "dcb382dc-a4e0-4354-a845-b7d647f610f7": {
+    "b7f51bfe-7d0d-476f-87ff-247598809dc3": {
+      "1": "VAT201 Returns",
+      "3": 2,
+      "9": "1 - Standard Rate (15%)\n2 - Standard Rate (15% Capital)\n3 - Zero rate (local)\n4 - Zero Rate (export)\n5 - Accommodation (less than 28 days)\n6 - Accommodation (28 days or more)\n7 - Other & imports\n8 - Change in use\n9 - Exempt\nBad debts written off\nOther\nImported capital goods",
+      "2": "7f368d97-8b7f-4b39-b156-dc66afd9496a"
+    }
+  },
+  "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+    "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+      "1": "dd/MM/yyyy",
+      "4": "HH:mm:ss",
+      "3": "CgEsEgEgGAM="
+    }
+  },
+  "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+    "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "26b9e4a5-ce10-4f30-94c7-23a1ca4428f9": {
+    "00ab7c53-c881-49e0-9a20-611966c72d3a": {
+      "1": "Entertainment",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "181897a4-6e30-4f71-8f35-cfdb2f989897": {
+      "1": "Printing and stationery",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "24a5db53-e3c5-4c58-a878-91605e43e872": {
+      "1": "Repairs and maintenance",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "287b754e-1109-404e-84c9-62dd3a4cc724": {
+      "1": "Accommodation",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "45ed192d-ab00-42f8-85b4-98b80681e374": {
+      "1": "Bank charges",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "69fe6bf3-68da-4a9c-91c1-626449384fa8": {
+      "1": "Sales",
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e",
+      "13": "59dd87a0-9b5d-4bf3-8d5a-22c13a9df2c5",
+      "10": 1
+    },
+    "6f8316b4-1ee3-4e64-b3ab-608afa9f42ad": {
+      "1": "Telephone",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "79c1d920-c4d3-44a2-8c52-2b680e1afcc7": {
+      "1": "Advertising and promotion",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "7d0ef1b7-1b0c-4521-a339-fee7daa92e6a": {
+      "1": "Legal fees",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "7de904d7-dfa8-4610-8ffe-311e2ab6d9a4": {
+      "1": "Motor vehicle expenses",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "8a29ac99-e92f-4e7b-946e-857d6f930e0d": {
+      "1": "Rent",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "92127fb0-8f92-4045-9461-2c81d750b488": {
+      "1": "Donations",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "99d824eb-7310-4360-b83b-6089a917e784": {
+      "1": "Travelling",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "a54804a2-dcf1-4c25-81f7-ce82bf8d495e": {
+      "1": "Interest received",
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e",
+      "13": "e4227367-e2ed-4936-b94f-91ab96a7dc15",
+      "10": 2
+    },
+    "c42d3f2c-eb4f-434b-8276-6513f24178e9": {
+      "1": "Computer equipment",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "cb3c88b3-689f-4620-9c7e-9927f0be29f9": {
+      "1": "Accounting fees",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    },
+    "cfc03fd8-f517-4133-8aea-6447b3c1a1ce": {
+      "1": "Electricity",
+      "3": "fd003045-876e-439e-b923-1904453f5c30",
+      "13": "b01186e9-2d42-48e3-990b-19770d2c29dc"
+    }
+  },
+  "5770616c-0e01-46ca-a172-f7042275da6c": {
+    "95713fac-30d3-42e4-b536-dd7bc4f7a80e": {
+      "1": "Income",
+      "5": 1
+    },
+    "fd003045-876e-439e-b923-1904453f5c30": {
+      "1": "Expenses",
+      "6": 1,
+      "5": 2
+    }
+  },
+  "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+    "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "91c2bcbb-1f8c-4aa1-82fd-0ab38c97fb14": {
+    "ffbb6407-a9c2-4418-b65d-b11a44e65094": {
+      "1": "VAT201 - Vendor Declaration",
+      "29": "2021-11-01T00:00:00",
+      "30": "2021-11-30T00:00:00",
+      "16": 1,
+      "17": [
+        {
+          "5": [
+            {
+              "1": "Total Including VAT"
+            }
+          ],
+          "6": [
+            {
+              "1": "VAT Amount"
+            }
+          ]
+        },
+        {
+          "4": "A. Calculation of Output Tax and Imported Services\n--------------------------------------------------------------------"
+        },
+        {
+          "4": "<b>Supply of Goods and / or Services By You</b>"
+        },
+        {
+          "4": "Standard rate (excluding capital goods and / or services and accommodation)",
+          "5": [
+            {
+              "4": 1,
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Standard rate (only capital goods and / or services)",
+          "5": [
+            {
+              "4": 1,
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Zero rate (excluding goods exported)",
+          "5": [
+            {
+              "4": 1,
+              "7": "3 - Zero rate (local)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Zero rate (only exported goods)",
+          "5": [
+            {
+              "4": 1,
+              "7": "4 - Zero Rate (export)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Exempt and non-supplies",
+          "5": [
+            {
+              "4": 1,
+              "7": "9 - Exempt",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "<b>Supply of accommodation</b>"
+        },
+        {
+          "4": "Exceeding 28 days",
+          "5": [
+            {
+              "4": 1,
+              "7": "6 - Accommodation (28 days or more)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "6 - Accommodation (28 days or more)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "7": "6 - Accommodation (28 days or more)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Value Not Exceeding 28 days",
+          "5": [
+            {
+              "4": 1,
+              "7": "5 - Accommodation (less than 28 days)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "5 - Accommodation (less than 28 days)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "7": "5 - Accommodation (less than 28 days)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "<b>Adjustments :</b>"
+        },
+        {
+          "4": "Change in use and export of second-hand goods",
+          "5": [
+            {
+              "4": 1,
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Other and imported services",
+          "5": [
+            {
+              "4": 1,
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "<b>Total A: TOTAL OUTPUT TAX</b>",
+          "6": [
+            {
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "3 - Zero rate (local)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "4 - Zero Rate (export)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "5 - Accommodation (less than 28 days)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "6 - Accommodation (28 days or more)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "7": "9 - Exempt",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": ""
+        },
+        {
+          "4": "B. Calculation of Input Tax\n----------------"
+        },
+        {
+          "4": "Capital goods and / or services supplied to you",
+          "5": [
+            {
+              "4": 4,
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "4": 3,
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Capital goods imported by you",
+          "5": [
+            {
+              "4": 4,
+              "7": "Imported capital goods",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "Imported capital goods",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "4": 3,
+              "7": "Imported capital goods",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Other goods and / or services supplied to you (not capital goods)",
+          "5": [
+            {
+              "4": 4,
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "4": 3,
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Other goods imported by you (not capital goods)",
+          "5": [
+            {
+              "4": 4,
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "4": 3,
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "<b>Adjustments :</b>"
+        },
+        {
+          "4": "Change in use",
+          "5": [
+            {
+              "4": 4,
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "4": 3,
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Bad debts",
+          "5": [
+            {
+              "4": 4,
+              "7": "Bad debts written off",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "Bad debts written off",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "4": 3,
+              "7": "Bad debts written off",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "Other",
+          "5": [
+            {
+              "4": 4,
+              "7": "Other",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "Other",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ],
+          "6": [
+            {
+              "4": 3,
+              "7": "Other",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "<b>Total B: TOTAL INPUT TAX</b>",
+          "6": [
+            {
+              "4": 3,
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "Bad debts written off",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "Other",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 3,
+              "7": "Imported capital goods",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        },
+        {
+          "4": "---"
+        },
+        {
+          "4": "<b>VAT PAYABLE / REFUNDABLE (Total A - Total B)\n</b>",
+          "6": [
+            {
+              "4": 6,
+              "7": "1 - Standard Rate (15%)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "2 - Standard Rate (15% Capital)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "3 - Zero rate (local)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "4 - Zero Rate (export)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "5 - Accommodation (less than 28 days)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "6 - Accommodation (28 days or more)",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "7 - Other & imports",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "8 - Change in use",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "9 - Exempt",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "Imported capital goods",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "Bad debts written off",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            },
+            {
+              "4": 6,
+              "7": "Other",
+              "19": "b7f51bfe-7d0d-476f-87ff-247598809dc3"
+            }
+          ]
+        }
+      ],
+      "19": [
+        {}
+      ],
+      "23": [
+        {}
+      ],
+      "28": [
+        {}
+      ],
+      "33": true
+    }
+  },
+  "bbe8c088-729b-4b56-a7d7-26555270eced": {
+    "db0b1213-b650-4f93-bd17-806024cec849": {
+      "1": "ffbb6407-a9c2-4418-b65d-b11a44e65094",
+      "2": "202111",
+      "4": "2021-11-01T00:00:00",
+      "5": "2021-11-30T00:00:00"
+    }
+  },
+  "a9a71e47-82b3-49db-8aec-898adb460a80": {
+    "a9a71e47-82b3-49db-8aec-898adb460a80": {
+      "1": 312
+    }
+  },
+  "f361339b-932a-4436-b56e-a337c1587c72": {
+    "61262f07-c58e-4cea-b8da-f60edacfc307": {
+      "1": "Funds contributed"
+    },
+    "7b7dc6e1-c1f6-4e71-bd69-b0f5bf905622": {
+      "1": "Drawings"
+    },
+    "fcf5a993-0b30-47af-be88-94cf8820b248": {
+      "1": "Share of profit"
+    }
+  },
+  "6d2dc48d-2053-4e45-8330-285ebd431242": {
+    "7d91babf-53b3-4700-adec-31e0e63dc98b": {
+      "1": "Sample Supplier",
+      "9": {}
+    }
+  },
+  "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+    "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+      "2": true,
+      "44": true,
+      "45": true,
+      "43": true,
+      "14": true,
+      "4": true,
+      "17": true,
+      "3": true,
+      "5": true,
+      "10": true,
+      "15": true,
+      "6": true,
+      "20": true,
+      "26": true,
+      "31": true,
+      "16": true,
+      "40": true
+    }
+  },
+  "7f368d97-8b7f-4b39-b156-dc66afd9496a": {
+    "028c20cc-7e04-4690-a6dc-fa719661a51c": {
+      "1": "Imported capital goods",
+      "5": 2,
+      "4": 100.0,
+      "2": [
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "Imported capital goods"
+      }
+    },
+    "2938cf5c-377c-4d8e-a938-fcd6fff18a58": {
+      "1": "Accommodation (28 days or more)",
+      "5": 2,
+      "4": 9.0,
+      "2": [
+        {},
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "6 - Accommodation (28 days or more)"
+      }
+    },
+    "3ff44d8d-a256-4d9b-beec-b12428abc627": {
+      "1": "Standard Rate (15% Capital goods)",
+      "5": 2,
+      "4": 15.0,
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "2 - Standard Rate (15% Capital)"
+      }
+    },
+    "493017f6-771f-4dc1-8f22-d1ce9073521c": {
+      "1": "Accommodation (less than 28 days)",
+      "5": 2,
+      "4": 15.0,
+      "2": [
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "5 - Accommodation (less than 28 days)"
+      }
+    },
+    "747f9e19-97e2-4a11-ab99-c4f4b9422b23": {
+      "1": "Change in use",
+      "5": 2,
+      "4": 15.0,
+      "2": [
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "8 - Change in use"
+      }
+    },
+    "7c8ca684-1baf-400e-9b0a-130a9815286e": {
+      "1": "Other & imports",
+      "5": 2,
+      "4": 100.0,
+      "2": [
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "7 - Other & imports"
+      }
+    },
+    "7d69ed40-f41e-4bf9-836c-4209f2a0b036": {
+      "1": "Zero rate (local goods)",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "15": true,
+      "16": "Credit Note",
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "3 - Zero rate (local)"
+      }
+    },
+    "ba444962-6eba-4384-ae2a-e5c99f1f1cd0": {
+      "1": "Other",
+      "5": 2,
+      "4": 15.0,
+      "2": [
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "Other"
+      }
+    },
+    "ebecaf3a-2f0e-41ac-8460-b6b13ee0a34c": {
+      "1": "Zero Rate (export)",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "4 - Zero Rate (export)"
+      }
+    },
+    "f93536ae-ca10-4e5c-8920-e76f45c8a46e": {
+      "1": "Bad debts written off",
+      "5": 2,
+      "4": 15.0,
+      "2": [
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "Bad debts written off"
+      }
+    },
+    "fb99b406-24f7-4497-a0ba-7b95da128641": {
+      "1": "Exempt",
+      "5": 2,
+      "2": [
+        {}
+      ],
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "9 - Exempt"
+      }
+    },
+    "ffdb48c2-a25d-435f-908a-8f79a0f9eba4": {
+      "1": "Standard Rate (15%)",
+      "5": 2,
+      "4": 15.0,
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "17": {
+        "b7f51bfe-7d0d-476f-87ff-247598809dc3": "1 - Standard Rate (15%)"
+      }
+    }
+  },
+  "68e0d57b-4a59-453e-b8d4-6166f097eacd": {
+    "a6e19bb4-a68b-43c2-b93c-8f753e94606a": {
+      "4": "202111",
+      "1": "2021-11-01T00:00:00",
+      "2": "2021-11-30T00:00:00"
+    }
+  }
+}
